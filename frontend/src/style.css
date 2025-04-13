@@ -1,0 +1,11 @@
+/* Global reset (add this outside of scoped styles) */
+html,
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+  background: #1e1e2f;
+  font-family: "Ubuntu" !important;
+}
